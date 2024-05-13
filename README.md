@@ -16,12 +16,12 @@ Ramin Babazade
 Email: rambzd@gmail.com
 
 ## Inhaltsverzeichnis
-- [Introduction](#Introduction)
-- [Project Structure](#Project-Structure)
-- [Usage](#Usage)
-- [Dependencies](#Dependencies)
-- [Development](#Development)
-- [License](#License)
+- [Introduction](#Einführung)
+- [Project Structure](#Projektstruktur)
+- [Usage](#Verwendung)
+- [Dependencies](#Abhängigkeiten)
+- [Development](#Entwicklung)
+- [License](#Lizenz)
 
 ## Dateien
 
